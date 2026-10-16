@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Cozy Winter Pullover",
+    "category": "PULLOVER",
+    "description": "Warm and comfortable wool pullover perfect for cold winters.",
+    "price": 45.99,
+    "imageUrl": null,
+    "imageUrls": [],
+    "color": "Forest Green",
+    "material": "Wool Blend",
+    "quantityAvailable": 5
+  },
+  {
+    "id": 2,
+    "name": "Cable Knit Pullover",
+    "category": "PULLOVER",
+    "description": "Classic cable knit design with a timeless appeal.",
+    "price": 52.5,
+    "imageUrl": null,
+    "imageUrls": [],
+    "color": "Cream",
+    "material": "Wool",
+    "quantityAvailable": 3
+  },
+  {
+    "id": 3,
+    "name": "Handmade Tote Bag",
+    "category": "BAG",
+    "description": "Spacious and sturdy tote bag perfect for everyday use.",
+    "price": 35,
+    "imageUrl": null,
+    "imageUrls": [],
+    "color": "Navy Blue",
+    "material": "Cotton/Acrylic",
+    "quantityAvailable": 8
+  },
+  {
+    "id": 4,
+    "name": "Market Bag",
+    "category": "BAG",
+    "description": "Perfect for shopping or carrying your projects.",
+    "price": 28.99,
+    "imageUrl": "assets/images/products/BeachBag1.jpg",
+    "imageUrls": [
+      "assets/images/products/BeachBag1.jpg",
+      "assets/images/products/BeachBag2.jpg"
+    ],
+    "color": "Beige",
+    "material": "Cotton",
+    "quantityAvailable": 6
+  },
+  {
+    "id": 5,
+    "name": "Soft Wool Scarf",
+    "category": "SCARF",
+    "description": "Luxurious and warm scarf, ideal for winter style.",
+    "price": 22.5,
+    "imageUrl": null,
+    "imageUrls": [],
+    "color": "Burgundy",
+    "material": "Merino Wool",
+    "quantityAvailable": 10
+  },
+  {
+    "id": 6,
+    "name": "Lightweight Scarf",
+    "category": "SCARF",
+    "description": "Perfect for layering or transitional weather.",
+    "price": 18.99,
+    "imageUrl": null,
+    "imageUrls": [],
+    "color": "Pastel Pink",
+    "material": "Acrylic Blend",
+    "quantityAvailable": 7
+  },
+  {
+    "id": 7,
+    "name": "Fingerless Gloves",
+    "category": "GLOVES",
+    "description": "Stay warm while keeping your fingers free.",
+    "price": 15,
+    "imageUrl": null,
+    "imageUrls": [],
+    "color": "Black",
+    "material": "Wool",
+    "quantityAvailable": 12
+  },
+  {
+    "id": 8,
+    "name": "Winter Mittens",
+    "category": "GLOVES",
+    "description": "Cozy mittens with soft lining for maximum warmth.",
+    "price": 20,
+    "imageUrl": null,
+    "imageUrls": [],
+    "color": "Red",
+    "material": "Wool/Fleece",
+    "quantityAvailable": 9
+  },
+  {
+    "id": 9,
+    "name": "Scarf",
+    "category": "SCARF",
+    "description": "A beautiful and warm scarf in different colours, perfect for autumn and winter.",
+    "price": 15,
+    "imageUrl": "assets/images/products/OrangeScarf1.jpg",
+    "imageUrls": [
+      "assets/images/products/OrangeScarf1.jpg",
+      "assets/images/products/OrangeScarf2.jpg"
+    ],
+    "color": "Beige",
+    "material": "Wool",
+    "quantityAvailable": 1
+  }
+]
