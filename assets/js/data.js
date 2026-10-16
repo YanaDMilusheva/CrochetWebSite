@@ -1,0 +1,271 @@
+window.CROCHET_DATA = {
+  "products": [
+    {
+      "id": 1,
+      "name": "Cozy Winter Pullover",
+      "category": "PULLOVER",
+      "description": "Warm and comfortable wool pullover perfect for cold winters.",
+      "price": 45.99,
+      "imageUrl": null,
+      "imageUrls": [],
+      "color": "Forest Green",
+      "material": "Wool Blend",
+      "quantityAvailable": 5
+    },
+    {
+      "id": 2,
+      "name": "Cable Knit Pullover",
+      "category": "PULLOVER",
+      "description": "Classic cable knit design with a timeless appeal.",
+      "price": 52.5,
+      "imageUrl": null,
+      "imageUrls": [],
+      "color": "Cream",
+      "material": "Wool",
+      "quantityAvailable": 3
+    },
+    {
+      "id": 3,
+      "name": "Handmade Tote Bag",
+      "category": "BAG",
+      "description": "Spacious and sturdy tote bag perfect for everyday use.",
+      "price": 35,
+      "imageUrl": null,
+      "imageUrls": [],
+      "color": "Navy Blue",
+      "material": "Cotton/Acrylic",
+      "quantityAvailable": 8
+    },
+    {
+      "id": 4,
+      "name": "Market Bag",
+      "category": "BAG",
+      "description": "Perfect for shopping or carrying your projects.",
+      "price": 28.99,
+      "imageUrl": "assets/images/products/BeachBag1.jpg",
+      "imageUrls": [
+        "assets/images/products/BeachBag1.jpg",
+        "assets/images/products/BeachBag2.jpg"
+      ],
+      "color": "Beige",
+      "material": "Cotton",
+      "quantityAvailable": 6
+    },
+    {
+      "id": 5,
+      "name": "Soft Wool Scarf",
+      "category": "SCARF",
+      "description": "Luxurious and warm scarf, ideal for winter style.",
+      "price": 22.5,
+      "imageUrl": null,
+      "imageUrls": [],
+      "color": "Burgundy",
+      "material": "Merino Wool",
+      "quantityAvailable": 10
+    },
+    {
+      "id": 6,
+      "name": "Lightweight Scarf",
+      "category": "SCARF",
+      "description": "Perfect for layering or transitional weather.",
+      "price": 18.99,
+      "imageUrl": null,
+      "imageUrls": [],
+      "color": "Pastel Pink",
+      "material": "Acrylic Blend",
+      "quantityAvailable": 7
+    },
+    {
+      "id": 7,
+      "name": "Fingerless Gloves",
+      "category": "GLOVES",
+      "description": "Stay warm while keeping your fingers free.",
+      "price": 15,
+      "imageUrl": null,
+      "imageUrls": [],
+      "color": "Black",
+      "material": "Wool",
+      "quantityAvailable": 12
+    },
+    {
+      "id": 8,
+      "name": "Winter Mittens",
+      "category": "GLOVES",
+      "description": "Cozy mittens with soft lining for maximum warmth.",
+      "price": 20,
+      "imageUrl": null,
+      "imageUrls": [],
+      "color": "Red",
+      "material": "Wool/Fleece",
+      "quantityAvailable": 9
+    },
+    {
+      "id": 9,
+      "name": "Scarf",
+      "category": "SCARF",
+      "description": "A beautiful and warm scarf in different colours, perfect for autumn and winter.",
+      "price": 15,
+      "imageUrl": "assets/images/products/OrangeScarf1.jpg",
+      "imageUrls": [
+        "assets/images/products/OrangeScarf1.jpg",
+        "assets/images/products/OrangeScarf2.jpg"
+      ],
+      "color": "Beige",
+      "material": "Wool",
+      "quantityAvailable": 1
+    }
+  ],
+  "translations": {
+    "en": {
+      "page": {
+        "home": {
+          "title": "Crochet Studio - Handmade Crochet Items"
+        },
+        "gallery": {
+          "title": "Gallery - Crochet Studio"
+        },
+        "category": {
+          "title": "Category - Crochet Studio"
+        },
+        "product": {
+          "title": "Product Detail - Crochet Studio"
+        },
+        "about": {
+          "title": "About Me - Crochet Studio"
+        },
+        "contact": {
+          "title": "Contact - Crochet Studio"
+        }
+      },
+      "site": {
+        "brand": "🧶 Young and Fancy Design Crochet Studio"
+      },
+      "nav": {
+        "home": "Home",
+        "gallery": "Gallery",
+        "about": "About Me",
+        "contact": "Contact"
+      },
+      "footer": {
+        "rights": "© 2026 Young and Fancy Design Crochet Studio. All rights reserved. Handmade with love 🧶"
+      },
+      "common": {
+        "browseCollection": "Browse collection",
+        "browseAll": "Browse all products",
+        "learnMore": "Learn more",
+        "contactNow": "Ask about this item",
+        "back": "Back",
+        "priceFrom": "From",
+        "loading": "Loading...",
+        "empty": "Nothing to show right now.",
+        "filters": "Quick filters",
+        "itemsLabel": "items"
+      },
+      "home": {
+        "hero": {
+          "title": "Welcome to My Crochet Studio",
+          "subtitle": "Handmade with love — pullovers, bags, scarves, and gloves.",
+          "primary": "Explore products",
+          "secondary": "Contact me"
+        },
+        "featured": "Featured Products",
+        "featuredSubtitle": "A curated selection from the current catalog.",
+        "categories": "Shop by Category"
+      },
+      "gallery": {
+        "heading": "Our Complete Collection",
+        "intro": "Browse every listed item and open each product for a fuller description.",
+        "all": "All products"
+      },
+      "category": {
+        "empty": {
+          "title": "No products available in this category",
+          "desc": "Check back soon for new handmade items."
+        },
+        "label": {
+          "pullover": "Pullovers",
+          "bag": "Bags",
+          "scarf": "Scarves",
+          "gloves": "Gloves"
+        },
+        "title": {
+          "pullover": "Handmade Pullovers",
+          "bag": "Beautiful Bags",
+          "scarf": "Cozy Scarves",
+          "gloves": "Warm Gloves"
+        },
+        "desc": {
+          "pullover": "Comfortable and stylish pullovers for every season.",
+          "bag": "Spacious and beautiful bags for everyday use.",
+          "scarf": "Soft and elegant scarves to complete your look.",
+          "gloves": "Warm and cozy gloves to keep your hands comfortable."
+        }
+      },
+      "product": {
+        "viewDetails": "View details",
+        "notFound": "Product not found",
+        "category": "Category",
+        "material": "Material",
+        "color": "Color",
+        "availableQuantity": "Available quantity",
+        "gallery": "Gallery",
+        "askAbout": "Ask about this item",
+        "backToGallery": "Back to gallery",
+        "related": "You may also like",
+        "inStock": "✓ In stock — {0} available",
+        "lowStock": "⚠ Limited stock — {0} available",
+        "outOfStock": "✗ Out of stock"
+      },
+      "about": {
+        "heading": "About My Crochet Studio",
+        "p1": "Welcome to my humble crochet studio! I'm a passionate crocheter who believes in creating beautiful, high-quality handmade items that bring joy and warmth to people's lives.",
+        "p2": "Each piece I create is made with love and attention to detail. I take pride in using quality materials and following best crochet practices to ensure every item is not just beautiful, but also durable and comfortable.",
+        "p3": "What started as a hobby has blossomed into a beautiful way to connect with people around the world who appreciate the art of handmade crochet.",
+        "values": "What I Believe In",
+        "value": {
+          "quality": {
+            "title": "Quality Craftsmanship",
+            "desc": "Every stitch is carefully placed using dependable materials and techniques."
+          },
+          "sustainable": {
+            "title": "Sustainable Materials",
+            "desc": "Whenever possible, I choose eco-conscious yarns and thoughtful materials."
+          },
+          "love": {
+            "title": "Made with Love",
+            "desc": "Every piece is prepared with patience, passion, and special attention to detail."
+          },
+          "custom": {
+            "title": "Custom Pieces",
+            "desc": "If you have a color or style in mind, we can discuss a handmade variation."
+          },
+          "satisfaction": {
+            "title": "Customer Care",
+            "desc": "Clear communication and careful craftsmanship matter from start to finish."
+          },
+          "community": {
+            "title": "Creative Community",
+            "desc": "Handmade crochet connects people through warmth, creativity, and personal style."
+          }
+        },
+        "cta": {
+          "title": "Ready to find a handmade piece you love?",
+          "desc": "Browse the current collection and contact me directly about any product you see.",
+          "shop": "Browse products",
+          "custom": "Contact me"
+        }
+      },
+      "contact": {
+        "heading": "Get in Touch",
+        "intro": "Choose one of the contact options below to get in touch.",
+        "emailLabel": "Email",
+        "phoneLabel": "Phone",
+        "itemInterest": "Interested item",
+        "facebookLabel": "Facebook",
+        "facebookLink": "Visit my Facebook page",
+        "instagramLabel": "Instagram",
+        "instagramLink": "Visit my Instagram profile"
+      }
+    }
+  }
+};
