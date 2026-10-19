@@ -53,7 +53,7 @@
       },
       "featured": "Featured Products",
       "featuredSubtitle": "A curated selection from the current catalog.",
-      "categories": "Shop by Category"
+      "categories": "Browse by category"
     },
     "gallery": {
       "heading": "Our Complete Collection",
@@ -134,7 +134,7 @@
       "cta": {
         "title": "Ready to find a handmade piece you love?",
         "desc": "Browse the current collection and contact me directly about any product you see.",
-        "shop": "Browse products",
+        "browse": "Browse products",
         "custom": "Contact me"
       }
     },
@@ -145,9 +145,9 @@
       "phoneLabel": "Phone",
       "itemInterest": "Interested item",
       "facebookLabel": "Facebook",
-      "facebookLink": "Visit my Facebook page",
+      "facebookLink": "Young and Fancy Design",
       "instagramLabel": "Instagram",
-      "instagramLink": "Visit my Instagram profile"
+      "instagramLink": "Young and Fancy Design"
     }
   }
 }
