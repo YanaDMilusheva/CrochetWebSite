@@ -1,8 +1,8 @@
 const CONTACT_DETAILS = {
-  email: 'yana.milusheva@gmail.com',
-  phone: '+359 899171618',
-  facebook: 'https://www.facebook.com/your-page',
-  instagram: 'https://www.instagram.com/your-profile'
+  email: 'yana.milusheva@yahoo.com',
+  phone: '+359 899171335',
+  facebook: 'https://www.facebook.com/share/1EsxQGUiAW/',
+  instagram: 'https://www.instagram.com/yana.milusheva/'
 };
 
 function escapeHtml(value) {

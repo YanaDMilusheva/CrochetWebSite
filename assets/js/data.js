@@ -10,7 +10,7 @@ window.CROCHET_DATA = {
       "imageUrls": [],
       "color": "Forest Green",
       "material": "Wool Blend",
-      "quantityAvailable": 5
+      "quantityAvailable": 1
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@ window.CROCHET_DATA = {
       "imageUrls": [],
       "color": "Cream",
       "material": "Wool",
-      "quantityAvailable": 3
+      "quantityAvailable": 1
     },
     {
       "id": 3,
@@ -34,22 +34,22 @@ window.CROCHET_DATA = {
       "imageUrls": [],
       "color": "Navy Blue",
       "material": "Cotton/Acrylic",
-      "quantityAvailable": 8
+      "quantityAvailable": 1
     },
     {
       "id": 4,
-      "name": "Market Bag",
+      "name": "Beach Bag",
       "category": "BAG",
-      "description": "Perfect for shopping or carrying your projects.",
-      "price": 28.99,
+      "description": "Perfect for beach walks and vacations on the sea.",
+      "price": 30.00,
       "imageUrl": "assets/images/products/BeachBag1.jpg",
       "imageUrls": [
         "assets/images/products/BeachBag1.jpg",
         "assets/images/products/BeachBag2.jpg"
       ],
-      "color": "Beige",
+      "color": "Beige/Grey/Green",
       "material": "Cotton",
-      "quantityAvailable": 6
+      "quantityAvailable": 1
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@ window.CROCHET_DATA = {
       "imageUrls": [],
       "color": "Burgundy",
       "material": "Merino Wool",
-      "quantityAvailable": 10
+      "quantityAvailable": 1
     },
     {
       "id": 6,
@@ -73,7 +73,7 @@ window.CROCHET_DATA = {
       "imageUrls": [],
       "color": "Pastel Pink",
       "material": "Acrylic Blend",
-      "quantityAvailable": 7
+      "quantityAvailable": 1
     },
     {
       "id": 7,
@@ -85,7 +85,7 @@ window.CROCHET_DATA = {
       "imageUrls": [],
       "color": "Black",
       "material": "Wool",
-      "quantityAvailable": 12
+      "quantityAvailable": 1
     },
     {
       "id": 8,
@@ -97,11 +97,11 @@ window.CROCHET_DATA = {
       "imageUrls": [],
       "color": "Red",
       "material": "Wool/Fleece",
-      "quantityAvailable": 9
+      "quantityAvailable": 1
     },
     {
       "id": 9,
-      "name": "Scarf",
+      "name": "Winter Colourful Scarf",
       "category": "SCARF",
       "description": "A beautiful and warm scarf in different colours, perfect for autumn and winter.",
       "price": 15,
@@ -110,8 +110,8 @@ window.CROCHET_DATA = {
         "assets/images/products/OrangeScarf1.jpg",
         "assets/images/products/OrangeScarf2.jpg"
       ],
-      "color": "Beige",
-      "material": "Wool",
+      "color": "Orange/Red/Grey/White",
+      "material": "Cotton/Wool",
       "quantityAvailable": 1
     }
   ],
@@ -170,7 +170,7 @@ window.CROCHET_DATA = {
         },
         "featured": "Featured Products",
         "featuredSubtitle": "A curated selection from the current catalog.",
-        "categories": "Shop by Category"
+        "categories": "Browse by category"
       },
       "gallery": {
         "heading": "Our Complete Collection",
@@ -251,7 +251,7 @@ window.CROCHET_DATA = {
         "cta": {
           "title": "Ready to find a handmade piece you love?",
           "desc": "Browse the current collection and contact me directly about any product you see.",
-          "shop": "Browse products",
+          "browse": "Browse products",
           "custom": "Contact me"
         }
       },
@@ -262,9 +262,9 @@ window.CROCHET_DATA = {
         "phoneLabel": "Phone",
         "itemInterest": "Interested item",
         "facebookLabel": "Facebook",
-        "facebookLink": "Visit my Facebook page",
+        "facebookLink": "Young and Fancy Design",
         "instagramLabel": "Instagram",
-        "instagramLink": "Visit my Instagram profile"
+        "instagramLink": "Young and Fancy Design"
       }
     }
   }

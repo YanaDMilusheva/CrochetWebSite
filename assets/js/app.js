@@ -371,7 +371,7 @@ function renderAboutPage() {
         <p>${t(state.translations, 'about.cta.desc')}</p>
       </div>
       <div class="hero-section__actions">
-        <a class="btn btn--primary" href="gallery.html">${t(state.translations, 'about.cta.shop')}</a>
+        <a class="btn btn--primary" href="gallery.html">${t(state.translations, 'about.cta.browse')}</a>
         <a class="btn btn--ghost" href="contact.html">${t(state.translations, 'about.cta.custom')}</a>
       </div>
     </section>
@@ -392,11 +392,11 @@ function renderContactPage() {
             <strong>${t(state.translations, 'contact.phoneLabel')}</strong>
             <span>${CONTACT_DETAILS.phone}</span>
           </a>
-          <a href="${CONTACT_DETAILS.facebook}" target="_blank" rel="noopener noreferrer">
+          <a class="contact-methods__facebook" href="${CONTACT_DETAILS.facebook}" target="_blank" rel="noopener noreferrer">
             <strong>${t(state.translations, 'contact.facebookLabel')}</strong>
             <span>${t(state.translations, 'contact.facebookLink')}</span>
           </a>
-          <a href="${CONTACT_DETAILS.instagram}" target="_blank" rel="noopener noreferrer">
+          <a class="contact-methods__instagram" href="${CONTACT_DETAILS.instagram}" target="_blank" rel="noopener noreferrer">
             <strong>${t(state.translations, 'contact.instagramLabel')}</strong>
             <span>${t(state.translations, 'contact.instagramLink')}</span>
           </a>
