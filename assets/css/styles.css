@@ -576,11 +576,38 @@ select {
 
 .contact-methods a {
     display: grid;
-    gap: 4px;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+    align-items: center;
+    gap: 12px;
     padding: 14px;
     border: 1px solid rgba(111, 73, 119, 0.1);
     border-radius: var(--radius-sm);
     background: var(--surface-soft);
+}
+
+.contact-methods a span {
+    text-align: right;
+    overflow-wrap: anywhere;
+}
+
+.contact-methods a.contact-methods__facebook {
+    border-color: rgba(24, 119, 242, 0.2);
+    background: linear-gradient(135deg, #f0f6ff, #e6f0ff);
+}
+
+.contact-methods__facebook span {
+    color: #1877f2;
+    font-weight: 600;
+}
+
+.contact-methods a.contact-methods__instagram {
+    border-color: rgba(193, 53, 132, 0.2);
+    background: linear-gradient(135deg, #fff2f7, #f7eaff);
+}
+
+.contact-methods__instagram span {
+    color: #c13584;
+    font-weight: 600;
 }
 
 .contact-methods strong {
